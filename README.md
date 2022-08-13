@@ -36,4 +36,4 @@ Clone do jogo Pac-Man utilizando Flutter com o pacote Bonfire, feito durante o p
 
 - Acesse a pasta pacman-clone dentro do terminal.
 
-- Executar o programa rodando o comando: flutter run main.dart
+- Executar o programa rodando o comando: lib/flutter run main.dart
